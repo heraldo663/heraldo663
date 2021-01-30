@@ -1,4 +1,4 @@
-# Hi there 👋.
+# Hi there 👋
 
 My name is Heraldo Ecard Roque Filho and I'm a software development engineer.
 
