@@ -38,3 +38,7 @@ My name is Heraldo Ecard Roque Filho and I'm a software development engineer.
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=4A71BD)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4A71BD)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heraldo663&layout=compact)](https://github.com/heraldo663/github-readme-stats)
+
+
